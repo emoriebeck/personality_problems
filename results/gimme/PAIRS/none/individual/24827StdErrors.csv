@@ -1,0 +1,12 @@
+"","A_rude","E_quiet","C_lazy","N_relaxed","E_outgoing","A_kind","C_reliable","N_worried","N_depressed","self_esteem","negEmo","A_rudelag","E_quietlag","C_lazylag","N_relaxedlag","E_outgoinglag","A_kindlag","C_reliablelag","N_worriedlag","N_depressedlag","self_esteemlag","negEmolag"
+"A_rude",0,0,0,0.4633,NA,0,0.2413,0,0,NA,1.2253,0.3485,0.1278,0,0.6174,0.1255,0.2022,0.1197,0.029,0.6091,0,0.5395
+"E_quiet",0,0,NA,0.5391,NA,NA,0.416,NA,0.5235,NA,0.0664,NA,NA,NA,0,NA,0.0679,NA,0,0,NA,NA
+"C_lazy",NA,0,0,0,0,0,0,NA,NA,0,NA,NA,0,0.1992,0,NA,NA,NA,0,NA,NA,NA
+"N_relaxed",0.5589,0.5085,1.1253,0,0.8394,0.2898,0.3127,0.4463,0.4593,0.8133,0.6847,0.4657,0.3102,0.7176,1.4814,0.4295,0.5863,0.6603,1.6434,1.4189,1.5458,0.3088
+"N_depressed",NA,0.3033,0,NA,0.1537,NA,0.2959,0,0,0,NA,NA,0.1266,NA,NA,0,NA,NA,NA,0.1542,0.1233,NA
+"E_outgoing",0,NA,0,0,0,0,0,NA,0,0,0,NA,0,0,NA,0.1068,NA,NA,0,0.2358,0,NA
+"A_kind",11.1308,0,55.6835,14.6661,113.963,0,91.5525,122.5198,157.4287,70.7897,0,116.795,64.284,57.4039,176.6164,98.4233,64.1386,37.4447,181.7462,153.6589,65.193,30.4632
+"C_reliable",0,NA,NA,NA,0,0,0,0,NA,0,0.2645,NA,NA,0,NA,0,NA,NA,NA,NA,0,0
+"N_worried",0,0,NA,0,0,0.1131,NA,0,0,0,0,0,NA,0,NA,0,NA,0.1073,NA,0,0,NA
+"self_esteem",0,0,0,0,0,NA,0,0,0,0,NA,NA,0,0.0681,NA,0,0,NA,0.1066,0.149,NA,NA
+"negEmo",0.3947,0,NA,0.3467,NA,0,0,NA,NA,0,0,0.372,NA,NA,NA,0.2707,NA,0,NA,NA,NA,NA
